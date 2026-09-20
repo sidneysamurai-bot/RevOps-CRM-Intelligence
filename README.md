@@ -26,16 +26,27 @@ GitHub contains the evidence.
 
 Week	Focus	Primary Proof	Status
 01	CRM Foundation	CRM foundation project + documentation	✅ Completed
+
 02	Pipeline Forecasting	Pipeline model + dashboard + insights	✅ Completed
+
 03	CRM Data Quality + CRM Reality Lab	CRM implementation + data-quality audit + hygiene framework	🔥 In Progress
+
 04	Lead Management & SLA	Lead lifecycle + SLA design	Planned
+
 05	Power Automate	Lead follow-up / routing automation	Planned
+
 06	Power BI Revenue Dashboard	Executive revenue dashboard	Planned
+
 07	Forecast Accuracy	Forecast methodology + variance analysis	Planned
+
 08	Revenue Metrics	Funnel, conversion and coverage analysis	Planned
+
 09	RevOps Process Design	Lead-to-revenue operating process	Planned
+
 10	RevOps Strategy	Cross-functional RevOps operating model	Planned
+
 11	Integrated Case Study	End-to-end RevOps scenario	Planned
+
 12	Portfolio Capstone	Final case study + recruiter-ready portfolio	Planned
 
 ⸻
